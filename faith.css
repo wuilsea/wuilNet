@@ -1,0 +1,25 @@
+.block_1, .block_2{
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(206, 215, 215);
+}
+
+.my_icon {
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+}
+
+.block_2 {
+    height: 100px !important;
+}
+
+.content {
+    margin: 50px auto;
+    padding: auto;
+    text-align: center;
+    max-width: 700px;
+    line-height: 50px;
+}
